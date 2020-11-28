@@ -1,3 +1,6 @@
+print('-Python Project 10-')
+print()
+
 buah = {'apel' : 5000,
         'jeruk' : 8500,
         'mangga' : 7800,

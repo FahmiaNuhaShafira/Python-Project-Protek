@@ -6,7 +6,7 @@ buah = {'apel' : 5000,
         'mangga' : 7800,
         'duku' : 6500}
 
-print("--Daftar Buah--")
+print("Daftar Buah")
 number = 1
 for x,y in buah.items():
     print("{0}. {1} : {2}".format(number,x,y))

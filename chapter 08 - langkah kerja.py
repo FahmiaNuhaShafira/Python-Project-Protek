@@ -29,7 +29,7 @@ print('-'*30)
 a.sort()
 b.sort()
 print('List a setelah sorting secara ascending:\n',a)
-print('List a setelah sorting secara ascending:\n',b)
+print('List b setelah sorting secara ascending:\n',b)
 print('-'*30)
 
 #5

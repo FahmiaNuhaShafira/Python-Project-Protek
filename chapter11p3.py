@@ -40,4 +40,4 @@ if(status == 'ada') :
         print("Denda : ", denda)    
 
 else :
-    print("Data Peminjaman Tidak Ditemukan")
+    print("Data Tidak Ditemukan")
